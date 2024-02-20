@@ -1,4 +1,4 @@
-# :cut_of_meat: Rouladen with Red Cabbage and Spätzle
+# 🥩 Rouladen with Red Cabbage and Spätzle
 
 - **Serving Size:** 4 servings
 - **Preparation Time:** 2 hours

@@ -1,4 +1,4 @@
-# :cherries: Black Forest Cake
+# 🍒 Black Forest Cake
 
 ![picture of a black forest cake](../assets/schwarzwälder.jpg)
 
@@ -43,4 +43,4 @@
 5. **Finish the Cake**:
    - Release the cake from the pan and spread the remaining whipped cream all over the cake. Decorate with whipped cream rosettes and cherries. Use a small knife to grate the chocolate directly onto the surface and edges of the cake. Chill the cake for at least 2 hours before serving.
 
-Enjoy your delicious Black Forest Cake! :cake:
+Enjoy your delicious Black Forest Cake! 🍰

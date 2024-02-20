@@ -1,4 +1,4 @@
-# :leafy_green: Field Salad with Black Forest Bacon Croutons
+# 🥬 Field Salad with Black Forest Bacon Croutons
 
 - **Serving Size:** 4 servings
 - **Preparation Time:** 30 minutes

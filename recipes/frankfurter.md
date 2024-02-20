@@ -1,4 +1,4 @@
-# :birthday: Frankfurt Crown Cake
+# 🎂 Frankfurt Crown Cake
 
 ## Ingredients
 
@@ -75,4 +75,4 @@
 ##### Chill and Serve:
 1. Chill the Frankfurt Crown cake for at least one hour before serving.
 
-Enjoy your baking experience! :cake:
+Enjoy your baking experience! 🍰
