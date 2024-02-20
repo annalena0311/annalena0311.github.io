@@ -1,9 +1,9 @@
 # 🍒 Black Forest Cake
 
-![picture of a black forest cake](../assets/schwarzwälder.jpg)
-
 - **Servings:** 12 slices
 - **Cooking Time:** 40 minutes
+
+![picture of a black forest cake](../assets/schwarzwälder.jpg)
 
 ## Ingredients
 
