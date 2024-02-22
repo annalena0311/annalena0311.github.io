@@ -5,48 +5,43 @@
 
 ## Ingredients
 
-### For the Rouladen
-| Amount        | Ingredient                                         |
-|---------------|----------------------------------------------------|
-| 4             | Beef roulades                                      |
-| 4 slices      | Mild smoked bacon, finely diced                    |
-| 1             | Onion, finely diced                                |
-| 3 small       | Cornichons, finely diced                           |
-| 4 tsp         | Mustard                                            |
-| 1/2 bunch     | Soup greens (1-2 carrots, 1/2 leek, 1 small piece of celeriac) |
-| 1             | Onion, in coarse pieces                            |
-| 1 tbsp        | Tomato paste                                       |
-| 250 ml        | Dry red wine                                       |
-| 500 ml        | Beef broth                                         |
-| To taste      | Salt & pepper                                      |
+| Amount          | Ingredient                                          |
+|-----------------|-----------------------------------------------------|
+| **For the Rouladen**                                   |
+| 4               | Beef roulades                                      |
+| 4 slices        | Mild smoked bacon, finely diced                    |
+| 1               | Onion, finely diced                                |
+| 3 small         | Cornichons, finely diced                           |
+| 4 tsp           | Mustard                                            |
+| 1/2 bunch       | Soup greens (1-2 carrots, 1/2 leek, 1 small piece of celeriac) |
+| 1               | Onion, in coarse pieces                            |
+| 1 tbsp          | Tomato paste                                       |
+| 250 ml          | Dry red wine                                       |
+| 500 ml          | Beef broth                                         |
+| To taste        | Salt & pepper                                      |
+| **For the Red Cabbage**                                 |
+| 1 small         | Red cabbage                                        |
+| 2 tsp           | Sugar                                              |
+| 1               | Onion, finely diced                                |
+| 1               | Tart apple (e.g., Elstar), peeled, diced          |
+| 2 tbsp          | Lard or butter                                     |
+| 150 ml          | Dry red wine                                       |
+| 150 ml          | Vegetable broth                                    |
+| 2 tbsp          | Apple jelly                                        |
+| 2               | Cloves                                             |
+| 2               | Star anise                                         |
+| 1 stick         | Cinnamon                                           |
+| 4 grains        | Allspice                                           |
+| 2               | Bay leaves                                         |
+| To taste        | Salt & pepper                                      |
+|                 | Balsamic vinegar (optional)                        |
+| **For the Spätzle**                                     |
+| 500 g           | Flour                                              |
+| 5               | Eggs                                               |
+| A pinch         | Nutmeg                                             |
+| 1 tsp           | Salt                                               |
+| 300 ml          | Water                                              |
 
-### For the Red Cabbage
-| Amount        | Ingredient                                         |
-|---------------|----------------------------------------------------|
-| 1 small       | Red cabbage                                        |
-| 2 tsp         | Sugar                                              |
-| 1             | Onion, finely diced                                |
-| 1             | Tart apple (e.g., Elstar), peeled, diced          |
-| 2 tbsp        | Lard or butter                                     |
-| 150 ml        | Dry red wine                                       |
-| 150 ml        | Vegetable broth                                    |
-| 2 tbsp        | Apple jelly                                        |
-| 2             | Cloves                                             |
-| 2             | Star anise                                         |
-| 1 stick       | Cinnamon                                           |
-| 4 grains      | Allspice                                           |
-| 2             | Bay leaves                                         |
-| To taste      | Salt & pepper                                      |
-|               | Balsamic vinegar (optional)                        |
-
-### For the Spätzle
-| Amount        | Ingredient                                         |
-|---------------|----------------------------------------------------|
-| 500 g         | Flour                                              |
-| 5             | Eggs                                               |
-| A pinch       | Nutmeg                                             |
-| 1 tsp         | Salt                                               |
-| 300 ml        | Water                                              |
 
 ## Instructions
 

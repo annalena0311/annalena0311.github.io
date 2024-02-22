@@ -5,7 +5,7 @@
 - **Servings:** 12 slices
 - **Cooking Time:** 100 minutes
 
-![picture of a frankfurt corwn cake](../assets/frankfurter.jpg)
+![picture of a frankfurt crown cake](../assets/frankfurter.jpg)
 
 | Amount          | Ingredient                                          |
 |-----------------|-----------------------------------------------------|
